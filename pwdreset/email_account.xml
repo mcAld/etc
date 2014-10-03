@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<emails>
+	<email_account>
+		<id>785622</id>
+		<adr>rmoreno@vpo-ventures.com</adr>
+		<cur_pwd></cur_pwd>
+	</email_account>
+	<email_account>
+		<id>785612</id>
+		<adr>doannguyen@vpo-ventures.com</adr>
+		<cur_pwd></cur_pwd>
+	</email_account>
+	<email_account>
+		<id>785621</id>
+		<adr>dtieu@vpo-ventures.com</adr>
+		<cur_pwd></cur_pwd>
+	</email_account>
+	<email_account>
+		<id>785617</id>
+		<adr>phillip@vpo-ventures.com</adr>
+		<cur_pwd></cur_pwd>
+	</email_account>
+</emails>
